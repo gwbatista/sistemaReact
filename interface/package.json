@@ -4,16 +4,12 @@
   "private": true,
   "dependencies": {
     "jquery": "^3.4.1",
+    "prop-types": "^15.7.2",
     "pubsub-js": "^1.7.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-<<<<<<< HEAD
-    "react-router": "^2.7.0",
+    "react-router-dom": "^4.1.1",
     "react-scripts": "3.0.1"
-=======
-    "react-scripts": "3.0.1",
-    "ts-jest": "^24.0.2"
->>>>>>> e0960becf8bf9d07999070bd0870794e97bb02a2
   },
   "scripts": {
     "start": "react-scripts start",
